@@ -16,6 +16,8 @@ make all -j8
 cd python
 sudo python setup.py install
 ```
+after that, please replace the mxnet/python/mxnet with the ./mxnet files
+
 to make it convenient you can add the your path/Mxnet/pyhton into the system path
 
 3. install ffmpeg
